@@ -1,0 +1,1 @@
+# plugins-smtp-yandex-mail-server
